@@ -16,7 +16,6 @@ Full Stack Software Engineer | Backend & DevOps Enthusiast | Building Scalable A
 ## 🚀 About Me
 
 - 💻 Full Stack Software Engineer with **3+ years of experience**
-- 🔭 Currently building **NILU - AI Receptionist & Appointment Automation Platform**
 - 🌱 Currently learning **Advanced System Design (HLD & LLD), Kubernetes, Terraform, AWS, and Distributed Systems**
 - ☁️ Passionate about **Backend Engineering, Cloud Computing, and DevOps**
 - 🧠 Solved **700+ LeetCode problems**
@@ -76,19 +75,6 @@ Full Stack Software Engineer | Backend & DevOps Enthusiast | Building Scalable A
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 NILU - AI Receptionist Platform
-
-- AI-powered appointment booking
-- WhatsApp Integration
-- IVR Calling
-- Reminder Automation
-- Multi-Clinic SaaS Platform
-- NestJS + Prisma + PostgreSQL + AWS
 
 ---
 
