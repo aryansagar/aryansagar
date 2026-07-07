@@ -1,29 +1,147 @@
 <h1 align="center">Hi 👋, I'm Rahul Aryan</h1>
-<h3 align="center">I am a Full Stack Web and Mobile Application Developer and a JavaScript.</h3>
+<h3 align="center">
+Full Stack Software Engineer | Backend & DevOps Enthusiast | Building Scalable Applications with Node.js, AWS & Kubernetes
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansagar&label=Profile%20views&color=0e75b6&style=flat" alt="aryansagar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryansagar" alt="aryansagar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **System design(HLD AND LLD) and Aws**
-
-- 💬 Ask me about **javaScript,React,Redux**
-
-- 📫 How to reach me **aryansagar1996@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aryanrahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryanrahul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aryansagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryansagar" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=aryansagar&label=Profile%20views&color=0e75b6&style=flat" alt="aryansagar" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://github-profile-trophy.vercel.app/?username=aryansagar">
+    <img src="https://github-profile-trophy.vercel.app/?username=aryansagar&theme=flat&margin-w=15" alt="aryansagar" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryansagar&show_icons=true&locale=en&layout=compact" alt="aryansagar" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryansagar&show_icons=true&locale=en" alt="aryansagar" /></p>
+- 💻 Full Stack Software Engineer with **3+ years of experience**
+- 🔭 Currently building **NILU - AI Receptionist & Appointment Automation Platform**
+- 🌱 Currently learning **Advanced System Design (HLD & LLD), Kubernetes, Terraform, AWS, and Distributed Systems**
+- ☁️ Passionate about **Backend Engineering, Cloud Computing, and DevOps**
+- 🧠 Solved **700+ LeetCode problems**
+- 💬 Ask me about **Node.js, NestJS, React, Next.js, TypeScript, AWS, Docker, Kubernetes, MongoDB, Redis, System Design**
+- 📫 Reach me at **aryansagar1996@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryansagar&" alt="aryansagar" /></p>
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/aryanrahul" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/aryansagar" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,python" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
+
+### Database & Cache
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,nginx,jenkins,githubactions" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 NILU - AI Receptionist Platform
+
+- AI-powered appointment booking
+- WhatsApp Integration
+- IVR Calling
+- Reminder Automation
+- Multi-Clinic SaaS Platform
+- NestJS + Prisma + PostgreSQL + AWS
+
+---
+
+### ☁️ Cloud & DevOps
+
+- Dockerized Applications
+- Kubernetes Deployments
+- CI/CD Pipelines
+- AWS ECS/EKS
+- EC2
+- S3
+- Route53
+- Nginx Reverse Proxy
+
+---
+
+### 🧠 Backend Engineering
+
+- REST APIs
+- Authentication & Authorization
+- Redis Caching
+- WebSockets
+- Queue Systems
+- Database Optimization
+- Scalable System Design
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aryansagar&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryansagar&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryansagar&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Master Distributed Systems
+- ☁️ Earn AWS Solution Architect Certification
+- ⚙️ Become an Expert in Kubernetes & Terraform
+- 📚 Deep Dive into System Design
+- 💻 Contribute to Open Source
+- 🎯 Build High-Scale Backend Systems
+
+---
+
+⭐ *Always learning, always building, always improving.*
