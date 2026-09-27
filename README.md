@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Aryan</h1>
 <h3 align="center">
-Full Stack Software Engineer | Backend & DevOps Enthusiast | Building Scalable Applications with Node.js, AWS & Kubernetes
+Full Stack Software Engineer | Backend & DevOps | Building Scalable Applications with Node.js, AWS & Kubernetes
 </h3>
 
 <p align="left">
